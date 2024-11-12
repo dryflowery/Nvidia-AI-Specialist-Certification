@@ -158,12 +158,16 @@ Based on the contents of the `data.yaml` file, the model training is carried out
 
 ## Label batch - Prediction batch
 
+Label_0 batch
 ![image 9](https://github.com/user-attachments/assets/b2069d96-8c7c-4a23-9f06-7b6129f89014)
 
-![image 10](https://github.com/user-attachments/assets/f980358b-ed77-4f7e-8892-5f488d6df382)
-
+Prediction_0 batch
 ![image 11](https://github.com/user-attachments/assets/d9b77ea4-9a3c-476b-a467-1395d5207670)
 
+Label_1 batch
+![image 10](https://github.com/user-attachments/assets/f980358b-ed77-4f7e-8892-5f488d6df382)
+
+Prediction_1 batch
 ![image 12](https://github.com/user-attachments/assets/7a1018d6-9539-4123-bce2-938aa335b02b)
 
 #### Results
